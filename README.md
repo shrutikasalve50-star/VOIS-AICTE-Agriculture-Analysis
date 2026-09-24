@@ -31,7 +31,7 @@ The objective of this project is to analyze how agricultural performance varies 
 - Matplotlib
 - Seaborn
 - SciPy
-- Google Colab
+- Jupyter Notebook
 
 ### Dataset Link
 
