@@ -31,7 +31,11 @@ The objective of this project is to analyze how agricultural performance varies 
 - Matplotlib
 - Seaborn
 - SciPy
-- Jupyter Notebook
+- Google Colab
+
+### Dataset Link
+
+[Seasonal Agriculture Performance Dataset](https://github.com/shrutikasalve50-star/VOIS-AICTE-Agriculture-Analysis/blob/main/seasonal_agriculture_performance_dataset%20(2).csv)
 
 ### Analysis Performed
 
@@ -50,6 +54,20 @@ The objective of this project is to analyze how agricultural performance varies 
 ### Key Areas Analyzed
 
 The project focuses on differences in agricultural performance across **Kharif, Rabi, and Zaid** seasons, along with crop, regional, environmental, resource, and economic factors.
+
+### Setup and Run Instructions
+
+1. Open the project notebook in Google Colab.
+2. Download the dataset using the Dataset Link provided above.
+3. Upload the dataset to the Google Colab environment.
+4. Install the required Python libraries listed in `requirements.txt` if required.
+5. Run the notebook cells in sequence.
+
+### Conclusion
+
+The analysis demonstrates that agricultural performance varies across seasons, crops, and regions. Environmental conditions, resource usage, and economic factors also contribute to differences in agricultural outcomes.
+
+The project provides data-driven insights that can support better seasonal crop planning, resource management, and agricultural decision-making.
 
 ### Conclusion
 
